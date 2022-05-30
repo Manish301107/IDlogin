@@ -5,7 +5,6 @@
     <style>
         * {
             margin: 0vw 0vw;
-            
         }
         body {
             background-color:#ffd26a;
@@ -71,6 +70,14 @@
             height: 10vw;
             width: 65vw;
             border-radius: 10vw;
+        }
+        hr {
+            background-color:#ffd26a;
+        }
+        h1 {
+            text-decoration:none;
+            margin-top:-20vw;
+            color:#ffd26a;
         }
     </style>
 </head>
