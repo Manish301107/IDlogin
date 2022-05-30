@@ -5,7 +5,7 @@
     <style>
         * {
             margin: 0vw 0vw;
-            padding: 0.5vw;
+            
         }
         body {
             background-color:#ffd26a;
@@ -20,7 +20,7 @@
         }
         label {
             font-size: 6vw;
-            margin-left: 5vw;
+            margin-left: 3vw;
         }
         #rks,#ps,#kk, #ss, #ms{
             height: 7vw;
@@ -74,6 +74,7 @@
         }
         hr {
             background-color:#ffd26a;
+            margin-top: -20vw;
         }
         a {
             text-decoration:none;
