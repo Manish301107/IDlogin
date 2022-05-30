@@ -20,7 +20,7 @@
         }
         label {
             font-size: 6vw;
-            margin-left: 2vw;
+            margin-left: 0.5vw;
         }
         #rks,#ps,#kk, #ss, #ms{
             height: 7vw;
