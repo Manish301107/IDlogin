@@ -14,7 +14,7 @@
             height: 30vw;
             width: 30vw;
             margin-left: 31vw;
-            margin-top: 10vw;
+            margin-top: 2vw;
             margin-bottom:13vw;
             border-radius: 50%;
         }
