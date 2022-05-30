@@ -13,7 +13,7 @@
         img {
             height: 30vw;
             width: 30vw;
-            margin-left: 34vw;
+            margin-left: 31vw;
             margin-top: 35vw;
             margin-bottom:13vw;
             border-radius: 50%;
@@ -31,7 +31,7 @@
             font-size:3.88vw;
         }
         #kk {
-            margin-left: 28.5vw;
+            margin-left: 24vw;
             margin-top: 2vw;
         }
         #rks:hover {
@@ -63,7 +63,7 @@
         }
         #login {
             margin-top: 15vw;
-            margin-left:15vw;
+            margin-left:12vw;
             background: #7f98ff;
             text-align:center;
             font-size:5vw;
