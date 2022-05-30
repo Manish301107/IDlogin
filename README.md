@@ -31,7 +31,7 @@
             font-size:3.88vw;
         }
         #kk {
-            margin-left: 24vw;
+            margin-left: 23.5vw;
             margin-top: 2vw;
         }
         #rks:hover {
