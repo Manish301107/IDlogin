@@ -14,7 +14,7 @@
             height: 30vw;
             width: 30vw;
             margin-left: 31vw;
-            margin-top: 35vw;
+            margin-top: 10vw;
             margin-bottom:13vw;
             border-radius: 50%;
         }
@@ -75,7 +75,6 @@
         hr {
             background-color:transparent;
             margin-top: -500px;
-            
         }
         a {
             text-decoration:none;
