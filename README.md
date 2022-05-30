@@ -5,6 +5,7 @@
     <style>
         * {
             margin: 0vw 0vw;
+            padding: 0.5vw;
         }
         body {
             background-color:#ffd26a;
@@ -74,10 +75,13 @@
         hr {
             background-color:#ffd26a;
         }
-        h1 {
+        a {
             text-decoration:none;
             margin-top:-20vw;
             color:#ffd26a;
+        }
+        h1 {
+            font-size:0vw;
         }
     </style>
 </head>
