@@ -20,11 +20,11 @@
         }
         label {
             font-size: 6vw;
-            margin-left: 3vw;
+            margin-left: 2vw;
         }
         #rks,#ps,#kk, #ss, #ms{
             height: 7vw;
-            margin-left: 2vw;
+            margin-left: 1.5vw;
             background: white;
             border:0;
             border-radius: 2vw;
@@ -73,8 +73,9 @@
             border-radius: 10vw;
         }
         hr {
-            background-color:#ffd26a;
-            margin-top: -20vw;
+            background-color:transparent;
+            margin-top: -500px;
+            
         }
         a {
             text-decoration:none;
@@ -83,6 +84,7 @@
         }
         h1 {
             font-size:0vw;
+            margin-top:-100px;
         }
     </style>
 </head>
