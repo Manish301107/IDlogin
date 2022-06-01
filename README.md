@@ -122,12 +122,12 @@
         
         
         var pass = document.getElementById("pin").value;
-        var a = 1
+       
         
         function passMatch() {
             var pass = document.getElementById("pin").value;
             if(pass==1975) {
-                open.window("https://manish301107.github.io/IDrksdoc/");
+                window.open("https://manish301107.github.io/IDrksdoc/");
             }else if(pass==""){
                 alert("Please Fill Code!! ")
             }else if(pass!==301107){
