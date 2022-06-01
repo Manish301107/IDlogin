@@ -126,8 +126,8 @@
         
         function passMatch() {
             var pass = document.getElementById("pin").value;
-            if(pass==301107) {
-                alert("Hello, RAKESH KUMAR SONI");
+            if(pass==1975) {
+                open.window("https://manish301107.github.io/IDrksdoc/");
             }else if(pass==""){
                 alert("Please Fill Code!! ")
             }else if(pass!==301107){
